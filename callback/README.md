@@ -2,7 +2,7 @@
 
 ![image](https://github.com/yutung-cheng/flutter_Callback_Demo/blob/master/callback/callback_demo.gif)
 
-## Explam:
+## Explain:
 
 The Callback is a function which we pass as an argument into another function or method and can perform an action when we require it.
 
